@@ -35,10 +35,20 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-VSCode Extensions:
+## VSCode Extensions
 - ES7+ React/Redux/React-Native snippets
 - JavaScript and TypeScript Nightly
 - Tailwind CSS IntelliSense
 
-Create app:
+## Create app
 - npx create-next-app@latest
+
+## Add to GitHub account
+- github.com - Click on the + icon in the top-right corner and select New repository (name: k09-web).
+
+## Git commands 
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/k09/k09-web.git
+git push -u origin main
