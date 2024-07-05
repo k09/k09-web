@@ -39,4 +39,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - git commit -m "Initial commit"
 - git remote add origin https://github.com/k09/k09-web.git
 - git push -u origin main
-line 42
+
+## Deployed on Heroku
+[https://k09-web-dacc4678a065.herokuapp.com](https://k09-web-dacc4678a065.herokuapp.com)
