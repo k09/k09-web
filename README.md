@@ -34,14 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - github.com - Click on the + icon in the top-right corner and select New repository (name: k09-web).
 
 ## Git commands 
-```bash
-git init
-# or
-git add .
-# or
-git commit -m "Initial commit"
-# or
-git remote add origin https://github.com/k09/k09-web.git
-# or
-git push -u origin main
-```
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git remote add origin https://github.com/k09/k09-web.git
+- git push -u origin main
+line 42
